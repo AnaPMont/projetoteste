@@ -1,12 +1,7 @@
 public class Usuario {
+  String codigo;
 
-private int idade;
-private String nome;
 
-public Usuario{
-  
-  
-}
 
 
 }
